@@ -1,0 +1,53 @@
+
+body {
+  background: url('../assets/test2.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.jumbotron {
+  text-align: center;
+  background: none;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+}
+
+#socialMedia {
+  text-align: center;
+}
+
+#iconMargin {
+  margin-left: 20px;
+}
+
+.modal-content {
+  background-color: black;
+  color: white;
+}
+
+.modal-backdrop {
+    opacity:0.7 !important;
+}
+
+hr{
+  height: 1px;
+  color: red;
+  background-color: white;
+}
+
+#imageContainer{
+  margin-top: 50px;
+}
+
+#headImage{
+  max-width: 30%;
+}
+
+a {
+  color: inherit;
+}
